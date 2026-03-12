@@ -1,1 +1,2 @@
-Synchira
+Synchira's backend
+
